@@ -1,0 +1,11 @@
+chanter/examples/filters/f435w.txt
+chanter/examples/filters/f606w.txt
+chanter/examples/filters/f814w.txt
+chanter/examples/filters/F090W.txt
+chanter/examples/filters/F115W.txt
+chanter/examples/filters/F150W.txt
+chanter/examples/filters/F200W.txt
+chanter/examples/filters/F277W.txt
+chanter/examples/filters/F356W.txt
+chanter/examples/filters/F410M.txt
+chanter/examples/filters/F444W.txt
