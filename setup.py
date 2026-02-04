@@ -16,8 +16,6 @@ setup(
 
     long_description=long_description,
 
-    long_description_content_type='text/markdown',
-
     author='Struan Stevenson',
 
     author_email='struan.stevenson@ed.ac.uk',
